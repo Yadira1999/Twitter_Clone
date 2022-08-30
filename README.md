@@ -8,6 +8,7 @@ Check out [LIVE DEMO here!!](https://twitter-clone-ne.herokuapp.com/)
 
 # Screenshot
 
+<img width="489" alt="Screenshot 2022-08-30 at 7 57 04 AM" src="https://user-images.githubusercontent.com/109363471/187335496-c3d9e367-b794-43cb-a0ea-5dccd5abec0a.png">
 
 
 
